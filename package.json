@@ -1,0 +1,24 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste React by vinay.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vinaykumar-coder/namaste-react)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "vinaykumar"
+  ],
+  "author": "vinay kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
