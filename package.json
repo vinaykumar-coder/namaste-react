@@ -4,6 +4,8 @@
   "description": "This is namaste React by vinay.",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "npx build index.html",
     "test": "jest"
   },
   "repository": {
